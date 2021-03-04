@@ -1,7 +1,7 @@
 # 学習：言語処理100本ノック2020
 [言語処理100本ノック 2020](https://nlp100.github.io/ja/)
 
-## 参考
+## 参考 - 構築
 ### Jupyter Notebook
 [Jupyter Notebookでコードの自動補完をする](https://www.soudegesu.com/post/python/jupyter-autocomplete/)  
 [[作業効率化] Jupyterの拡張機能を全部調べてみた - Code prettify](https://qiita.com/simonritchie/items/88161c806197a0b84174#code-prettify)  
@@ -18,3 +18,7 @@
 ### matplotlib
 [matplotlibで日本語](https://qiita.com/yniji/items/3fac25c2ffa316990d0c)  
 [matplotlib.pyplotの日本語化](https://qiita.com/mookouchi/items/2252d3a04109210aed61)
+
+## 参考 - 仕組み
+### MeCab
+[日本テレビ東京で学ぶMeCabのコスト計算](http://www.mwsoft.jp/programming/munou/mecab_nitteretou.html)

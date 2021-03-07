@@ -23,10 +23,18 @@
 [PythonとCaboChaで係り受け解析をする](https://irukanobox.blogspot.com/2019/09/pythoncabocha.html)  
 [CaboChaのインストールで躓いたところまとめ](https://qiita.com/kazasiki/items/99505a5005aebe2efb7a)
 
+### Graphviz
+[Windows / Ubuntu – Graphviz をインストールする方法について](https://pystyle.info/how-to-install-graphviz-on-windows-and-ubuntu/)
+
 ## 参考 - 仕組み
 ### MeCab
 [MeCab: Yet Another Part-of-Speech and Morphological Analyzer](https://taku910.github.io/mecab/)  
 [MeCab の開発経緯](https://taku910.github.io/mecab/feature.html)  
 [日本テレビ東京で学ぶMeCabのコスト計算](http://www.mwsoft.jp/programming/munou/mecab_nitteretou.html)  
+[日本語形態素解析の裏側を覗く！MeCab はどのように形態素解析しているか](https://techlife.cookpad.com/entry/2016/05/11/170000)  
 [Applying Conditional Random Fields to Japanese Morphological Analysis](https://www.aclweb.org/anthology/W04-3230.pdf)  
 [Conditional Random Fields を用いた日本語形態素解析](http://chasen.org/~taku/publications/nl161-slide.ppt)
+
+### CaboCha
+[CaboCha/南瓜: Yet Another Japanese Dependency Structure Analyzer](https://taku910.github.io/cabocha/)  
+[PythonのCaboChaの使い方まとめ【自然言語処理, 構文解析】](https://yu-nix.com/blog/2020/11/11/python-cabocha/)
